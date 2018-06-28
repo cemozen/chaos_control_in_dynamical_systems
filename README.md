@@ -1,6 +1,6 @@
 # Chaos Control in Dynamical Systems
 
-*Cem Özen*, January 2018
+*Cem Özen*
 
 Chaotic attractors are made of a skeleton consisting of an infinite number of unstable periodic orbits.
 A phase space point travelling along a trajectory in the phase space of the dynamical system spends only

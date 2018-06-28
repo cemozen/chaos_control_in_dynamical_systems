@@ -10,4 +10,4 @@ the system. This perturbation settles the dynamics onto a chosen periodic orbit.
 
 ## The Pyragas Method
 
-One of the most well-known methods of chaos control is the Pyragas (1992) method, which is also known as the delayed feedback control method. In this approach,  unstable periodic orbits are stabilized by applying small time continuous control to a parameter of the dynamical system of interest while it evolves in continuous time. Main advantages of this method are its easiness of implementation, and effectiveness for the less unstable periodic orbits
+One of the most well-known methods of chaos control is the Pyragas (1992) method, which is also known as the delayed feedback control method. In this approach,  unstable periodic orbits are stabilized by applying small time continuous control to a parameter of the dynamical system of interest while it evolves in continuous time. Main advantages of this method are its easiness of implementation, and effectiveness for the less unstable periodic orbits. In this notebok, I present a numerical treatment of the Duffing oscillator, and apply the Pyragas method to stabilize chosen chaotic orbits in this system.
